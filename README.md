@@ -7,3 +7,5 @@
 
 - "git push"
 - "git pull"
+
+- "git checkout <commit id>"
