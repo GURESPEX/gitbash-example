@@ -16,6 +16,6 @@
 
 - "git branch" // Branch Lists
 - "git branch [ branch-name ]" // Create Branch
+- "git branch -d [ branch-name ]" // Delete Branch
 - "git checkout [ branch-name ]" // Switch Branch
 - "git checkout -b [ branch-name ]" // Create and Switch Branch
-- "git branch -d [ branch-name ]" // Delete Branch
