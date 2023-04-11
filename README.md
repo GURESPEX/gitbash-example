@@ -8,4 +8,4 @@
 - "git push"
 - "git pull"
 
-- "git checkout <commit id>"
+- "git checkout <commit>"
