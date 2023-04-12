@@ -29,5 +29,9 @@
 - "git tag v1.0" // Create tag name v1.0
 - "git tag -d v1.0" // Delete tag v1.0
 - "git checkout v1.0" // Switch HEAD to tag v1.0
-- "git push [ origin ] v1.0" // Push tag v1.0 to Origin server
-- "git push -d [ origin ] v1.0" // Delete tag v1.0 in Origin server
+- "git push origin v1.0" // Push tag v1.0 to Origin server
+- "git push -d origin v1.0" // Delete tag v1.0 in Origin server
+
+- "git fetch"
+
+- "git clean -xdf" // Delete ignore file
